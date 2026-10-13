@@ -1,0 +1,31 @@
+encounter_id,patient_nbr,race,gender,age,weight,admission_type_id,discharge_disposition_id,admission_source_id,time_in_hospital,payer_code,medical_specialty,num_lab_procedures,num_procedures,num_medications,number_outpatient,number_emergency,number_inpatient,diag_1,diag_2,diag_3,number_diagnoses,max_glu_serum,A1Cresult,metformin,insulin,change,diabetesMed,readmitted
+101,5001,Caucasian,Female,"[70-80)",?,2,1,7,5,MC,Cardiology,42,1,12,0,0,1,250,401,?,8,None,None,No,No,No,Yes,<30
+102,5002,AfricanAmerican,Male,"[60-70)",?,1,1,1,3,MC,InternalMedicine,35,0,8,1,0,0,414,250,?,6,None,>7,Steady,No,No,Yes,NO
+103,5003,Caucasian,Female,"[50-60)",?,3,1,7,7,MC,Surgery-General,54,2,15,0,1,2,428,276,250,10,>200,>8,Steady,Up,Ch,Yes,>30
+104,5004,Hispanic,Male,"[80-90)",?,2,22,7,10,?,Emergency/Trauma,63,3,21,2,2,3,786,599,401,12,None,>7,Up,Down,Ch,Yes,<30
+105,5005,Caucasian,Male,"[40-50)",?,1,1,7,2,MC,Family/GeneralPractice,28,0,7,0,0,0,250,?, ?,4,None,None,No,No,No,No,NO
+106,5006,Caucasian,Female,"[60-70)",?,2,1,1,6,MC,Cardiology,51,2,18,1,0,2,414,401,?,8,Norm,Norm,Steady,No,No,Yes,>30
+107,5007,Asian,Female,"[50-60)",?,3,1,7,4,MC,InternalMedicine,39,1,9,0,0,1,250,272,?,5,None,None,No,No,No,Yes,NO
+108,5008,Caucasian,Male,"[70-80)",?,2,3,7,8,MC,Orthopedics,48,2,17,1,1,3,428,496,599,11,None,>7,Steady,Up,Ch,Yes,<30
+109,5009,Other,Female,"[30-40)",?,1,1,7,2,BC,Family/GeneralPractice,23,0,6,0,0,0,250,?, ?,3,None,None,No,No,No,No,NO
+110,5010,Caucasian,Male,"[60-70)",?,2,1,7,9,MC,Emergency/Trauma,58,2,20,1,2,4,414,599,786,10,Norm,>7,Up,Down,Ch,Yes,<30
+111,5011,AfricanAmerican,Female,"[50-60)",?,1,1,7,4,MC,InternalMedicine,32,1,10,0,1,1,250,401,?,7,None,None,Steady,No,No,Yes,NO
+112,5012,Caucasian,Male,"[70-80)",?,2,1,1,6,MC,Cardiology,61,2,14,0,1,2,428,250,?,9,>300,>8,Steady,Down,Ch,Yes,>30
+113,5013,Caucasian,Female,"[40-50)",?,3,1,7,3,MC,Surgery-General,30,0,8,0,0,0,250,?, ?,5,None,None,No,No,No,No,NO
+114,5014,AfricanAmerican,Male,"[80-90)",?,2,22,7,11,?,Emergency/Trauma,72,4,24,2,3,5,786,599,500,13,None,>7,Up,Up,Ch,Yes,<30
+115,5015,Caucasian,Female,"[60-70)",?,1,1,7,2,MC,Family/GeneralPractice,27,1,6,0,0,1,250,?, ?,4,None,None,No,No,No,Yes,NO
+116,5016,Hispanic,Male,"[50-60)",?,2,1,7,7,MC,Cardiology,49,2,16,1,0,2,414,401,?,9,None,>7,Steady,Up,Ch,Yes,>30
+117,5017,Caucasian,Female,"[70-80)",?,3,1,1,8,MC,Orthopedics,53,1,19,0,1,2,428,276,599,10,None,Norm,Steady,No,No,Yes,<30
+118,5018,Asian,Male,"[30-40)",?,1,1,7,3,MC,InternalMedicine,24,0,7,0,0,0,250,?, ?,4,None,None,No,No,No,No,NO
+119,5019,Caucasian,Female,"[60-70)",?,2,1,7,10,MC,Emergency/Trauma,66,3,22,1,2,3,414,599,786,11,>200,>8,Up,Down,Ch,Yes,<30
+120,5020,Other,Male,"[50-60)",?,1,1,7,5,MC,Family/GeneralPractice,41,1,12,0,0,1,250,?, ?,6,None,None,Steady,No,No,Yes,NO
+121,5021,Caucasian,Female,"[80-90)",?,2,3,7,9,MC,Surgery-General,58,2,20,1,1,4,428,496,?,12,None,>7,Up,Down,Ch,Yes,>30
+122,5022,AfricanAmerican,Male,"[60-70)",?,1,1,7,3,MC,InternalMedicine,31,1,9,0,0,0,250,272,?,5,None,None,No,No,No,Yes,NO
+123,5023,Caucasian,Female,"[70-80)",?,2,1,1,8,MC,Cardiology,55,2,17,1,1,2,414,401,?,9,Norm,>7,Steady,Up,Ch,Yes,<30
+124,5024,Asian,Male,"[40-50)",?,3,1,7,4,MC,Family/GeneralPractice,29,0,8,0,0,1,250,?, ?,4,None,None,No,No,No,No,NO
+125,5025,Caucasian,Female,"[50-60)",?,1,1,7,6,MC,InternalMedicine,47,2,15,0,1,2,428,599,?,8,None,>7,Steady,Down,Ch,Yes,>30
+126,5026,Caucasian,Male,"[60-70)",?,2,1,7,5,MC,Cardiology,43,1,13,1,0,1,414,250,?,7,None,None,No,No,No,Yes,NO
+127,5027,AfricanAmerican,Female,"[70-80)",?,3,1,1,9,MC,Emergency/Trauma,60,3,21,1,2,4,786,599,401,11,None,>7,Up,Up,Ch,Yes,<30
+128,5028,Caucasian,Male,"[40-50)",?,1,1,7,2,BC,Family/GeneralPractice,25,0,5,0,0,0,250,?, ?,3,None,None,No,No,No,No,NO
+129,5029,Caucasian,Female,"[80-90)",?,2,22,7,12,?,Orthopedics,69,2,25,2,3,5,428,599,786,13,None,>8,Up,Down,Ch,Yes,<30
+130,5030,Hispanic,Male,"[50-60)",?,1,1,7,4,MC,InternalMedicine,35,1,10,0,0,1,250,401,?,6,None,None,Steady,No,No,Yes,NO
